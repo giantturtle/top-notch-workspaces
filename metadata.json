@@ -1,0 +1,11 @@
+{
+    "extension-id": "top-notch-workspaces",
+    "uuid": "top-notch-workspaces@gnome-shell-extensions.gcampax.github.com",
+    "settings-schema": "org.gnome.shell.extensions.top-notch-workspaces",
+    "gettext-domain": "gnome-shell-extensions",
+    "name": "Top Notch Workspaces",
+    "description": "Switches workspaces to horizontal layout, moves the workspace indicator to the center of top bar and system date and time to the left side, adds transparency to top bar, puts an indicator on the panel signaling in which workspace you are, and give you the possibility of switching to another one and rearanging windows by moving them to workspace.Fork of Workspace Indicator by fmuellner",
+    "shell-version": [ "3.36" ],
+    "original-authors": [ "giant2turtle@gmail.com" ],
+    "url": "https://github.com/giantturtle"
+}

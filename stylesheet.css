@@ -1,0 +1,44 @@
+.panel-workspace-indicator {
+	padding: 2px 2px;
+}
+
+.panel-workspace-indicator-box {
+	padding: 2px 2px;
+}
+
+.panel-workspace-indicator-box .workspace {
+	width: 36px;
+}
+
+.panel-workspace-indicator,
+.panel-workspace-indicator-box .workspace {
+	border: 3px solid #7a7979c5;
+}
+
+.panel-workspace-indicator,
+.panel-workspace-indicator-box .workspace.active {
+	background-color: rgba(221, 72, 20, .95);
+}
+
+.panel-workspace-indicator-box .workspace {
+    background-color: rgba(10, 10, 10, 0.932);
+    border-left-width: 0px;
+}
+
+.panel-workspace-indicator-box .workspace:first-child {
+    border-left-width: 2px;
+}
+
+.workspace-indicator-window-preview {
+    background-color: #4b4a4a;
+    border: 2px solid #696868;
+}
+
+.workspace-indicator-window-preview.active {
+    background-color: #75280f;
+    border: 2px solid #dd4814;
+}
+
+.panel-transparency {
+    background-color: rgba(0, 0, 0, 0.40);
+}
