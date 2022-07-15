@@ -1,6 +1,6 @@
 {
     "extension-id": "top-notch-workspaces",
-    "uuid": "top-notch-workspaces@gnome-shell-extensions.gcampax.github.com",
+    "uuid": "top-notch-workspaces@top-notch-workspaces.giantturtle.github.com",
     "settings-schema": "org.gnome.shell.extensions.top-notch-workspaces",
     "gettext-domain": "gnome-shell-extensions",
     "name": "Top Notch Workspaces",
