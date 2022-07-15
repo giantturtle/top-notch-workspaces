@@ -1,5 +1,5 @@
 # top-notch-workspaces
-You need to have gnome extensions installed and enabled for this to work.
+You need to have gnome extensions installed and enabled for this to work. Its tested on Ubuntu 20.04 with GNOME 3.36. Feel free to test it on different versions and report any issues.
 
 This extension switches workspaces to horizontal layout, so desktop switching is horizontal (like on macOS) instead of verical (Ubuntu 20.04 default), 
 adds workspaces indicator in the middle of the top bar (default, can be configured), 
@@ -53,6 +53,6 @@ For example, you want to move clock to be after system date-time indicator:
    
 Or you can move notch indicator to be positioned right by changing lines:
 
-    //Workspace indicator in top bar    
+    //Workspace indicator in top bar
     _indicator = new WorkspaceIndicator();
     Main.panel.addToStatusArea('workspace-indicator', _indicator,0, 'right');
