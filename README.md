@@ -26,17 +26,20 @@ COnfiguration:
 You can configure colors, borders and transparency by editing stylesheet.css
 
 Example (current top bar transparency is set to 0.4):
-
-.panel-transparency {
-    background-color: rgba(0, 0, 0, 0.40);
-} 
+   
+   //Top bar transparency
+   
+  .panel-transparency {
+      background-color: rgba(0, 0, 0, 0.40);
+  } 
 
 
 Or you can edit extension.js for more advanced changes.
 
 For example, you want to move clock to be after system date-time indicator:
 
-// only move the clock if it's in the centre box
+    
+    //only move the clock if it's in the centre box
     if ( children.indexOf(dateMenu.container) != -1 ) {
         centerBox.remove_actor(dateMenu.container);
 
@@ -47,6 +50,6 @@ For example, you want to move clock to be after system date-time indicator:
    
 Or you can move notch indicator to be positioned right by changing lines:
 
-//Workspace indicator in top bar    
+    //Workspace indicator in top bar    
     _indicator = new WorkspaceIndicator();
     Main.panel.addToStatusArea('workspace-indicator', _indicator,0, 'right');
