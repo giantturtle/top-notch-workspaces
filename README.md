@@ -1,7 +1,10 @@
 # top-notch-workspaces
-Switches workspaces to horizontal layout, so workspace scrolling is like on macOS,
- moves the workspace indicator to the center of top bar and system date and time to the left side, 
- adds transparency to top bar, 
+You need to have gnome extensions installed and enabled for this to work.
+
+This extension switches workspaces to horizontal layout, so desktop switching is horizontal (like on macOS) instead of verical (Ubuntu 20.04 default), 
+adds workspaces indicator in the middle of the top bar (default, can be configured), 
+ moves system date and time to the left side (default, can be configured), 
+ adds transparency to top bar (default 0.4, can be configured), 
  puts an indicator on the panel signaling in which workspace you are, and give you the possibility of switching to another one and rearanging windows by dragging them to desiered workspace.
  This extension is based on built in GNOME extensions "horizontal-workspaces" and "workspace-indicator" by fmuellner https://gitlab.gnome.org/GNOME/gnome-shell-extensions
 
