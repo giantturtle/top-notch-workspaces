@@ -509,6 +509,8 @@ function disable() {
 
     //set default top bar
     _handles.splice(0).forEach(h => global.window_manager.disconnect(h));
+
+    _indicator=null;
     
 }
 
