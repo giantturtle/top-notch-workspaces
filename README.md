@@ -15,13 +15,11 @@ Default Ubuntu 20.04 top bar
 After applying Top Notch Workspaces extension
 ![After applying extension](https://github.com/giantturtle/top-notch-workspaces/blob/main/after-top-bar.png?raw=true)
 
+How it looks when using light theme:
+![After applying extension](https://github.com/giantturtle/top-notch-workspaces/blob/main/light-theme-look.png?raw=true)
 
 How it looks when using dark theme:
 ![After applying extension](https://github.com/giantturtle/top-notch-workspaces/blob/main/dark-theme-look.png?raw=true)
-
-
-How it looks when using light theme:
-![After applying extension](https://github.com/giantturtle/top-notch-workspaces/blob/main/light-theme-look.png?raw=true)
 
 
 COnfiguration:
