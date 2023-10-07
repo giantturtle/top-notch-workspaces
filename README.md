@@ -54,3 +54,7 @@ Or you can move notch indicator to be positioned right by changing lines:
     //Workspace indicator in top bar
     _indicator = new WorkspaceIndicator();
     Main.panel.addToStatusArea('workspace-indicator', _indicator,0, 'right');
+
+# Installation:
+
+Go to https://github.com/giantturtle/top-notch-workspaces
